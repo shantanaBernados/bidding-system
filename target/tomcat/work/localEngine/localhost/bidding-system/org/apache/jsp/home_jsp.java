@@ -67,7 +67,7 @@ public final class home_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("<title>FSOFT Bidding Web App</title>\r\n");
       out.write("</head>\r\n");
       out.write("<body style=\"background-color: gray\">\r\n");
-      out.write("\t<div id=\"container\" style=\"margin: auto; width: 250px;\">\r\n");
+      out.write("\t<div id=\"container\" style=\"margin: auto; width: 100%; background-color: white\">\r\n");
       out.write("\t\t<div>\r\n");
       out.write("\t\t\tFSOFT Bidding Web App <a href=\"\">Home</a> <a href=\"/item_form.jsp\">Post\r\n");
       out.write("\t\t\t\tItem</a> <a href=\"logout.do\">Logout</a>\r\n");

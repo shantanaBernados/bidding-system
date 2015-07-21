@@ -8,7 +8,7 @@
 <title>FSOFT Bidding Web App</title>
 </head>
 <body style="background-color: gray">
-	<div id="container" style="margin: auto; width: 250px;">
+	<div id="container" style="margin: auto; width: 100%; background-color: white">
 		<div>
 			FSOFT Bidding Web App <a href="">Home</a> <a href="/item_form.jsp">Post
 				Item</a> <a href="logout.do">Logout</a>
