@@ -1,0 +1,13 @@
+com\vn\fsoft\bidding\ejb\ws\endpoints\BidWS.class
+com\vn\fsoft\bidding\ejb\ws\endpoints\Item.class
+com\vn\fsoft\bidding\ejb\ws\endpoints\ObjectFactory.class
+com\vn\fsoft\bidding\ejb\ws\endpoints\Account.class
+com\vn\fsoft\bidding\ejb\ws\endpoints\GetItem.class
+com\vn\fsoft\bidding\actions\LoginAction.class
+com\vn\fsoft\bidding\ejb\ws\endpoints\BidService.class
+com\vn\fsoft\bidding\ejb\ws\endpoints\Bid.class
+com\vn\fsoft\bidding\ejb\ws\endpoints\GetBidResponse.class
+com\vn\fsoft\bidding\ejb\ws\endpoints\GetBid.class
+com\vn\fsoft\bidding\ejb\ws\endpoints\package-info.class
+com\vn\fsoft\bidding\forms\LoginForm.class
+com\vn\fsoft\bidding\ejb\ws\endpoints\GetItemResponse.class
